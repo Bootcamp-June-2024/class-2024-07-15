@@ -4,3 +4,16 @@ author: "David Kane"
 format: html
 ---
 
+Broad topic: race and employment in the United States
+
+Specific topic: black versus white call-backs
+
+Preceptor Table: 
+  Units: individuals
+  (Potential) Outcomes: call-back if black, call-back if white 
+  Causal/predictive: a causal model
+  Covariates: sex, zip code
+  Treatment: black name on resume versus white name on resume
+
+  
+  
